@@ -1,0 +1,9 @@
+---
+layout: post
+title: "hello"
+date: 2014-04-15 00:10:15 +0800
+comments: true
+categories: 
+---
+从今天开始，记录每一天。
+露水，阳光，都教授。
