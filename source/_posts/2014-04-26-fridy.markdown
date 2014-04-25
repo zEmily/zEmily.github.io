@@ -1,0 +1,9 @@
+---
+layout: post
+title: "fridy"
+date: 2014-04-26 01:24:01 +0800
+comments: true
+categories: 
+---
+#hello
+happy!
