@@ -1,16 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Emily]]></title>
   <link href="http://zEmily.github.io/atom.xml" rel="self"/>
   <link href="http://zEmily.github.io/"/>
-  <updated>2014-04-15T00:00:44+08:00</updated>
+  <updated>2014-04-26T01:25:40+08:00</updated>
   <id>http://zEmily.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[ademily]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fridy]]></title>
+    <link href="http://zEmily.github.io/blog/2014/04/26/fridy/"/>
+    <updated>2014-04-26T01:24:01+08:00</updated>
+    <id>http://zEmily.github.io/blog/2014/04/26/fridy</id>
+    <content type="html"><![CDATA[<h1>hello</h1>
+
+<p>happy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Second]]></title>
+    <link href="http://zEmily.github.io/blog/2014/04/17/second/"/>
+    <updated>2014-04-17T00:15:40+08:00</updated>
+    <id>http://zEmily.github.io/blog/2014/04/17/second</id>
+    <content type="html"><![CDATA[<p>hello everyone</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hah]]></title>
+    <link href="http://zEmily.github.io/blog/2014/04/17/hah/"/>
+    <updated>2014-04-17T00:10:43+08:00</updated>
+    <id>http://zEmily.github.io/blog/2014/04/17/hah</id>
+    <content type="html"><![CDATA[<p>今天是特殊的一天。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://zEmily.github.io/blog/2014/04/15/hello/"/>
+    <updated>2014-04-15T00:10:15+08:00</updated>
+    <id>http://zEmily.github.io/blog/2014/04/15/hello</id>
+    <content type="html"><![CDATA[<p>从今天开始，记录每一天。
+露水，阳光，都教授。</p>
+]]></content>
+  </entry>
   
 </feed>
