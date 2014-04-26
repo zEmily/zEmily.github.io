@@ -1,8 +1,0 @@
----
-layout: post
-title: "hah"
-date: 2014-04-17 00:10:43 +0800
-comments: true
-categories: 
----
-今天是特殊的一天。
