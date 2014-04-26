@@ -4,7 +4,7 @@
   <title><![CDATA[Emily]]></title>
   <link href="http://zEmily.github.io/atom.xml" rel="self"/>
   <link href="http://zEmily.github.io/"/>
-  <updated>2014-04-26T10:33:53+08:00</updated>
+  <updated>2014-04-26T11:20:56+08:00</updated>
   <id>http://zEmily.github.io/</id>
   <author>
     <name><![CDATA[ademily]]></name>
@@ -39,34 +39,6 @@
     <content type="html"><![CDATA[<h1>hello</h1>
 
 <p>happy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[second]]></title>
-    <link href="http://zEmily.github.io/blog/2014/04/17/second/"/>
-    <updated>2014-04-17T00:15:40+08:00</updated>
-    <id>http://zEmily.github.io/blog/2014/04/17/second</id>
-    <content type="html"><![CDATA[<p>hello everyone</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hah]]></title>
-    <link href="http://zEmily.github.io/blog/2014/04/17/hah/"/>
-    <updated>2014-04-17T00:10:43+08:00</updated>
-    <id>http://zEmily.github.io/blog/2014/04/17/hah</id>
-    <content type="html"><![CDATA[<p>今天是特殊的一天。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello]]></title>
-    <link href="http://zEmily.github.io/blog/2014/04/15/hello/"/>
-    <updated>2014-04-15T00:10:15+08:00</updated>
-    <id>http://zEmily.github.io/blog/2014/04/15/hello</id>
-    <content type="html"><![CDATA[<p>从今天开始，记录每一天。
-露水，阳光，都教授。</p>
 ]]></content>
   </entry>
   
